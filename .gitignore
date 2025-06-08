@@ -2,4 +2,4 @@ test_users.pkl
 train_users.pkl
 user_dict.pkl
 results/ising_model_size_experiment_20250608-113446.csv
-results/ising_model_size_experiment_latest.csv
+results/ising_model_size_experiment_latest1.csv
