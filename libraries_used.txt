@@ -10,6 +10,14 @@ matplotlib
 Installed via pip:
 pip install matplotlib
 
+Standard Python Libraries
+The following are part of the standard Python library (no installation needed):
+itertools, math, os, time, pickle
+
 pyGMs
 GitHub repository:
 https://github.com/ihler/pyGMs/tree/master
+
+Reference Material
+We referred to the following example during our project:
+https://sli.ics.uci.edu/extras/cs179/Project%20Starter%20-%20RecSys%20Ising.html
