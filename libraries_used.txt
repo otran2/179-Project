@@ -1,0 +1,15 @@
+numpy
+Installed via pip:
+pip install numpy
+
+pandas
+Installed via pip:
+pip install pandas
+
+matplotlib
+Installed via pip:
+pip install matplotlib
+
+pyGMs
+GitHub repository:
+https://github.com/ihler/pyGMs/tree/master
